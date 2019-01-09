@@ -1,2 +1,2 @@
 # temp
-A temporal repository to show young adolescents how to use Git.
+A temporal repository to show Kresteen and Ben how to use Github.
