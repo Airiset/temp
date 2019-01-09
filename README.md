@@ -1,2 +1,3 @@
 # temp
-A temporal repository to show Kresteen and Ben how to use Github.
+This is a README file, not a Reddit
+
